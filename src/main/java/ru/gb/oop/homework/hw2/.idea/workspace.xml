@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="194dc6e2-32b9-407d-8b90-d0c90d78581d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jumpable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Live.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotLive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Runable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Treadmill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wall.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2bm5sf0HPsr9ntyfW1OfZpi0hro" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GeekBrains/Объектно-ориентированное программирование/Семинары/Homework/ru.gb.oop.homework/src/main/java/ru/gb/oop/homework"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="194dc6e2-32b9-407d-8b90-d0c90d78581d" name="Changes" comment="" />
+      <created>1706807621292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706807621292</updated>
+    </task>
+    <servers />
+  </component>
+</project>
