@@ -31,7 +31,7 @@ public class Main {
         ));
 
         for (Creature creature : creatureList) {
-            System.out.println("Дистанциюю проходит " + creature.getName());
+            System.out.println(creature.getName() + " выходит на дистанцию");
             for (Obstacle obstacle : obstacleList) {
                 if (creature.isStatus()) {
                     if (obstacle.equals(testT)) {
